@@ -1,0 +1,18 @@
+.one {
+    background-color: #ff9999;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first {
+    color: blue;
+    font-size: 32px;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#second {
+    background-color: #99ff99;
+    font-weight: bold;
+}
