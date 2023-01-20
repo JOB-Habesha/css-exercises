@@ -53,4 +53,5 @@ ul {
 
 .left-items, .right-items {
   display: flex;
+  gap: 16px;
 }
