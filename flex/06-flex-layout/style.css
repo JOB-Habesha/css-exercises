@@ -28,6 +28,12 @@ a {
   background-color: #eeeeee;
 }
 
+.header,.footer {
+  display: flex;
+  justify-content: space-between;
+  align-self: stretch;
+}
+
 img {
   width: 600px;
 }
