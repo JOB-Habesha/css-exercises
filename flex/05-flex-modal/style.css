@@ -40,6 +40,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  margin: 10px;
 }
 
 .close-button {
