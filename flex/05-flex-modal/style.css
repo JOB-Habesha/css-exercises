@@ -21,7 +21,6 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
-  padding: 10px;
 }
 
 .top-line {
@@ -48,7 +47,6 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  margin: 0px 10px;
 }
 
 .header {
