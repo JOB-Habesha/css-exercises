@@ -32,7 +32,6 @@ a {
 .header,.footer {
   display: flex;
   justify-content: space-between;
-  align-self: stretch;
 }
 
 .content {
