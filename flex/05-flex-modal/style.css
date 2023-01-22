@@ -27,6 +27,13 @@ body {
 .top-line {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.non-icon {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .icon {
