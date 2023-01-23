@@ -46,6 +46,10 @@ a {
   color: white;
 }
 
+li {
+  margin-bottom: 16px;
+}
+
 .middle-body {
   display: flex;
   flex-grow: 1;
