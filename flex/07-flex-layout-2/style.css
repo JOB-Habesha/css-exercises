@@ -30,6 +30,8 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  padding: 24px;
+  flex-shrink: 0;
 }
 
 ul {
